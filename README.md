@@ -5,6 +5,6 @@ In this project, I implemented the construction of a Python microservice, which 
 This program consists of several Python modules, but I made sure there was no confusion and created one .pyz file based on several modules.
 To run the program you need to double click on the file with the extension .pyz.
 
-Also, in case of any problems with the .pyz file or any other unforeseen circumstances, I created another repository where I put the Python modules that I used to implement this project. If you want to use them as a program you just need to run the __main__.py script from the command line. Also for preloading the required libraries (requests and pyfiglet) in the repository added file: requirements.txt. Command line command to load the libraries: python -m pip install -r requirements.txt.
+Also, in case of any problems with the .pyz file or any other unforeseen circumstances, I created another repository(link: https://github.com/xxxAvalong/microservice_Rest_API_2) where I put the Python modules that I used to implement this project. If you want to use them as a program you just need to run the __main__.py script from the command line. Also for preloading the required libraries (requests and pyfiglet) in the repository added file: requirements.txt. Command line command to load the libraries: python -m pip install -r requirements.txt.
 
 It also goes without saying that you must have a Python interpreter installed in order to run the application in either variant. 
